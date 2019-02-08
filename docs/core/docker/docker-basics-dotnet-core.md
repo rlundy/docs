@@ -247,7 +247,7 @@ Congratulations! You have just:
 > [!div class="checklist"]
 > * Created a local .NET Core app
 > * Created a Dockerfile to build your first container
-> * Built and ran your Dockerized app
+> * Built and run your Dockerized app
 
 ## Next steps
 
